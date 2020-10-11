@@ -1,0 +1,1 @@
+db.peliculas.find ({"director": {$eq: "Neil Marshall"}})
